@@ -29,6 +29,7 @@ This dashboard is built to:
   * Shipment Date and Order Status
   * Region and Country
   * Sales Team
+  * Many More...
 
 ### 4. Key Insights Covered
 
